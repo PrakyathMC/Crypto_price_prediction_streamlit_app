@@ -1,0 +1,11 @@
+SARIMA_PDQ_DICT = {'BTCUSD': {'pdq': (1, 1, 2), 'seasonal_pdq': (2, 0, 2, 4)}, 'ETHUSD': {'pdq': (2, 1, 2), 'seasonal_pdq': (1, 0, 2, 4)}, 
+                   'LTCUSD': {'pdq': (2, 1, 2), 'seasonal_pdq': (1, 0, 2, 4)}, 'BCHUSD': {'pdq': (1, 1, 2), 'seasonal_pdq': (2, 0, 1, 4)}, 
+                   'XRPUSD': {'pdq': (0, 2, 1), 'seasonal_pdq': (2, 0, 0, 4)}, 'LINKUSD': {'pdq': (2, 0, 1), 'seasonal_pdq': (1, 0, 2, 4)}, 
+                   'ADAUSD': {'pdq': (1, 1, 0), 'seasonal_pdq': (0, 0, 1, 4)}, 'DOTUSD': {'pdq': (2, 1, 1), 'seasonal_pdq': (1, 0, 2, 4)}, 
+                   'UNIUSD': {'pdq': (1, 1, 2), 'seasonal_pdq': (2, 0, 1, 4)}, 'DOGEUSD': {'pdq': (0, 1, 0), 'seasonal_pdq': (0, 0, 0, 4)}, 
+                   'ETCUSD': {'pdq': (2, 1, 1), 'seasonal_pdq': (2, 0, 0, 4)}, 'MATICUSD': {'pdq': (2, 1, 0), 'seasonal_pdq': (0, 0, 1, 4)}, 
+                   'BSVUSD': {'pdq': (1, 1, 1), 'seasonal_pdq': (2, 0, 2, 4)}, 'FILUSD': {'pdq': (2, 1, 2), 'seasonal_pdq': (2, 0, 0, 4)}, 
+                   'ATOMUSD': {'pdq': (2, 0, 2), 'seasonal_pdq': (2, 0, 1, 4)}, 'XLMUSD': {'pdq': (1, 1, 2), 'seasonal_pdq': (1, 1, 2, 4)}, 
+                   'AAVEUSD': {'pdq': (2, 1, 2), 'seasonal_pdq': (1, 0, 2, 4)}, 'CAKEUSD': {'pdq': (1, 1, 2), 'seasonal_pdq': (1, 0, 2, 4)}, 
+                   'SUSHIUSD': {'pdq': (0, 1, 2), 'seasonal_pdq': (0, 0, 1, 4)}, 'MKRUSD': {'pdq': (0, 1, 2), 'seasonal_pdq': (0, 0, 1, 4)}, 
+                   'AVAXUSD': {'pdq': (2, 1, 2), 'seasonal_pdq': (2, 0, 1, 4)}}
