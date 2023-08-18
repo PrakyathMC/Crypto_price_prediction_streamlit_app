@@ -3,7 +3,7 @@ import pandas as pd
 config = {}
 
 config['session'] = True
-config['api_key'] = "d8c623538ff22efb5b7342a198b63b1e430e93f3"
+config['api_key'] = "Your tingo api key here"
 
 # Initialize
 client = TiingoClient(config)
